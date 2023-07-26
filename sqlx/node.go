@@ -20,7 +20,6 @@ import (
 	"database/sql"
 
 	"github.com/jmoiron/sqlx"
-
 	"golang.yandex/hasql"
 )
 
